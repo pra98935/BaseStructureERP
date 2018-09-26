@@ -17,6 +17,8 @@ import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
 import 'hammerjs';
 import { ChartsModule } from '@progress/kendo-angular-charts';
 
+import { SalesOrderModule } from '../sales-order/sales-order.module';
+
 
 
 @NgModule({
@@ -34,7 +36,8 @@ import { ChartsModule } from '@progress/kendo-angular-charts';
     FormsModule,
 
     NgbModule,
-    ChartsModule
+    ChartsModule,
+    SalesOrderModule
     
 
   ],
