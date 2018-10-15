@@ -78,3 +78,18 @@ export const salesOrderAttachment = [
         "CreatedByName":"Prashant"
     }
 ]
+
+// Notes
+export const salesOrderNotes = [  
+    {  
+        "CreatedByName":"Ankur",
+        "CreatedDate":"05/07/2018",
+        "Notes":"This is note"
+    }
+ ,  
+    {  
+        "CreatedByName":"Aryan",
+        "CreatedDate":"05/07/2018",
+        "Notes":"This is note"
+    }
+]

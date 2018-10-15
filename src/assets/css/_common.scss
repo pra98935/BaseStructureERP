@@ -83,7 +83,7 @@ body{
     /////////////////////////////////////////////////////////////////////////////////
     .opti_loader {
       position: absolute;
-      background: rgba(255,255,255,0.8);
+      background: rgba(255,255,255,1);
       width: 100%;
       height: 100%;
       text-align: center;
@@ -287,6 +287,7 @@ body{
         // horizontal tab start
             .opti_tab-outer{
                 width: calc(100% - 35px);
+                overflow-x: auto;
 
                 // new design tab start
                     ul.tabs{
@@ -447,7 +448,12 @@ body{
         padding-top: 5px;
     }
     tr:hover .opti_note-action-button-sec svg-icon svg {
-        fill: $white !important;
+        fill: $dark-black !important;
+    }
+    kendo-grid tr:hover .opti_note-meta, 
+    kendo-grid tr:hover .opti_note-meta strong,
+    kendo-grid tr:hover .opti_note-meta span {
+        color: $dark-black;
     }
 
     // item tab 
