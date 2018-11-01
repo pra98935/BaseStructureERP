@@ -238,4 +238,28 @@ body{
       }
     }
 
+    // css for input group type form
+    .opti_input-group-form{
+      .k-numeric-wrap {
+          // height: calc( 2.875rem + 2px);
+      }
+      kendo-dropdownlist {
+          width: auto !important;
+      }
+      textarea{
+        width: auto;
+      }
+      .opti_input-group-checkbox, .opti_input-group-radio{
+        height: calc( 1.8125rem + 2px);
+        padding: 0.25rem 0.5rem;
+        line-height: 1.5;
+        border: 1px solid rgba(33, 37, 41, 0.15);
+        border-radius: 3px;
+      }
+      .k-radio-label, .k-checkbox-label {
+          margin-right: 2rem;
+      }
+    }
+    
+
   }

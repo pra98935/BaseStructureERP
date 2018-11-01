@@ -18,6 +18,7 @@ import 'hammerjs';
 import { ChartsModule } from '@progress/kendo-angular-charts';
 
 import { SalesOrderModule } from '../sales-order/sales-order.module';
+import { FormModule } from '../form/form.module';
 
 
 
@@ -37,7 +38,8 @@ import { SalesOrderModule } from '../sales-order/sales-order.module';
 
     NgbModule,
     ChartsModule,
-    SalesOrderModule
+    SalesOrderModule,
+    FormModule
     
 
   ],
