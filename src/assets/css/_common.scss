@@ -29,7 +29,7 @@ body{
     
     .opti_error-msg{
         color: $error !important;
-        font-size: 12px;
+        font-size: $font-size-small;
     }
     
     .opt_content-padding{
@@ -62,7 +62,7 @@ body{
     }
 
     .opti_form-label{
-        font-size: 12px;
+        font-size: $font-size-small;
         margin-bottom: 0 !important;
     }
     button[disabled], .k-button[disabled], [disabled] .k-button{
@@ -171,7 +171,7 @@ body{
                   margin-bottom: 0;
               }
               p.opti_date {
-                  font-size: 12px;
+                  font-size: $font-size-small;
               }
           }
           img{

@@ -45,9 +45,9 @@ a:hover{
 
 label .opti_checkbox-container label, label > label {
   color: $white;
-  font-size: 12px;
+  font-size: $font-size-small;
   a{
-    font-size: 12px;
+    font-size: $font-size-small;
   }
   a:hover{
     text-decoration: underline;
@@ -61,7 +61,7 @@ label .opti_checkbox-container label, label > label {
 
 // css for white label
 .opti_form-label{
-  font-size: 12px;
+  font-size: $font-size-small;
   color: $white;
   margin-bottom: 0 !important;
 }

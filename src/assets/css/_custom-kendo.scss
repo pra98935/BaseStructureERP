@@ -13,7 +13,7 @@ body{
       kendo-list{
         ul{
           li{
-            font-size: 12px !important;
+            font-size: $font-size-small !important;
           }
           li.k-state-focused{
             box-shadow: none !important;
@@ -31,7 +31,20 @@ body{
     .k-form, .k-form-inline {
       padding: 20px;
     }
-  
+
+    .k-numeric-wrap input,
+    kendo-searchbar .k-input {
+      font-size: $font-size-small !important;
+    }
+
+    kendo-taglist .k-button {
+      font-size: $font-size-small;
+    }
+
+    .k-numeric-wrap input{
+      padding-top: 0 !important;
+    }
+
     // remove red error from input field on first time load 
     .ng-untouched.ng-invalid{
       border-color: $input-border-color;
@@ -44,12 +57,12 @@ body{
   
     // font size of input
     .k-textbox, .k-input.k-textbox, .k-textarea, .k-dropdown-wrap > .k-input{
-      font-size: 12px ;
+      font-size: $font-size-small ;
     }
   
     // form label
     .k-radio-label, .k-checkbox-label{
-      font-size: 12px;
+      font-size: $font-size-small;
       margin-bottom: 0 !important;
     }
   
@@ -60,7 +73,7 @@ body{
       border: 1px solid;
       cursor: pointer ;
       padding: 5px 10px ;
-      font-size: 12px ;
+      font-size: $font-size-small ;
       border: none;
       &:focus {
           outline: none;
@@ -89,23 +102,23 @@ body{
       }
       .k-grid-header .k-header > .k-link {
           // padding: 5px;
-          font-size: 12px;
+          font-size: $font-size-small;
       }
 
       .k-grid-header th.k-header {
         padding: 5px;
-        font-size: 12px;
+        font-size: $font-size-small;
       }
 
       .k-grid-table{
-        font-size: 12px;
+        font-size: $font-size-small;
       }
       
       .k-pager-wrap .k-link, .k-pager-wrap .k-state-selected {
         padding: 0;
       }
       .k-pager-wrap .k-pager-info {
-        font-size: 12px;
+        font-size: $font-size-small;
       }
       .k-grid-pager {
         padding: 0;
@@ -190,7 +203,7 @@ body{
     .opti_form-label,
     kendo-grid .k-grid-table,
     .k-dateinput-wrap .k-input{
-      font-size: 12px;
+      font-size: $font-size-small;
     }
 
     // textarea
@@ -240,9 +253,6 @@ body{
 
     // css for input group type form
     .opti_input-group-form{
-      .k-numeric-wrap {
-          // height: calc( 2.875rem + 2px);
-      }
       kendo-dropdownlist {
           width: auto !important;
       }
@@ -259,6 +269,14 @@ body{
       .k-radio-label, .k-checkbox-label {
           margin-right: 2rem;
       }
+    }
+
+    // css for bootstrap type form
+    .opti_bootstrap-form{
+      .k-radio-label, .k-checkbox-label {
+        margin-right: 2rem;
+      }
+      
     }
     
 
