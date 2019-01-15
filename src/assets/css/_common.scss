@@ -2,25 +2,7 @@ body{
     //////////////////////////////////////////////////////////////////
     // Some basic css
     //////////////////////////////////////////////////////////////////
-    .opti_margin-zero{
-        margin: 0;
-    }
-
-    .opti_padding-zero{
-        padding: 0;
-    }
-
-    .opti_border-none{
-        border: none;
-    }
-
-    .opti_fullwidth{
-        width: 100%;
-    }
-
-    .opti_fullheight{
-        height: 100%;
-    }
+    
     
     button.opti_remove-button-css{
         border: none;
@@ -33,29 +15,29 @@ body{
     }
     
     .opt_content-padding{
-    padding-top: 15px;
-    padding-bottom:15px;
+        padding-top: 15px;
+        padding-bottom:15px;
     }
 
     .opt_top-bar-height{
-    height: $top-bar-height;
+        height: $top-bar-height;
     }
 
-    .opti_position-relative{
-        position: relative;
-    }
+    // .opti_position-relative{
+    //     position: relative;
+    // }
 
-    .opti_display-inline{
-        display: inline;
-    }
+    // .opti_display-inline{
+    //     display: inline;
+    // }
 
-    .opti_display-inline-block{
-        display: inline-block;
-    }
+    // .opti_display-inline-block{
+    //     display: inline-block;
+    // }
 
-    .opti_display-inline-flex{
-        display: inline-flex;
-    }
+    // .opti_display-inline-flex{
+    //     display: inline-flex;
+    // }
 
     .opti_mouse-pointer{
         cursor: pointer;

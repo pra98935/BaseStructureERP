@@ -13,6 +13,10 @@ import { salesOrderList } from '../../DemoData/sales-order';
 })
 export class SalesOrderListComponent implements OnInit {
 
+  pageSizeNumber:number = 5;
+  public listItems: Array<string> = [ "5", "10", "15" ];
+  public selectedValue: string = "5";
+
   isMobile: boolean;
   isColumnFilter: boolean = false;
   isColumnGroup: boolean = false;
@@ -20,6 +24,10 @@ export class SalesOrderListComponent implements OnInit {
   showLoader: boolean = false;
   searchRequest: string = '';
   
+  incr(num){
+    this.pageSizeNumber = num;
+  }
+
   // UI Section
     @HostListener('window:resize', ['$event'])
     onResize(event) {

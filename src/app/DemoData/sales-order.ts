@@ -27,6 +27,489 @@ export const salesOrderList = [
         "Status":"New",
         "Branch":"Indore"
     }
+    ,  
+    {  
+        "QuotationNumber":"Cust0002",
+        "QuotationDate":"01/08/2018",
+        "Remark":"Apple",
+        "DeliveryDate":"04/08/2018",
+        "SalesEmployee":"Ankur",
+        "Owner":"Sameer Sharma",
+        "Total":2055.20,
+        "ItemServiceType":"Product Delivery",
+        "DocumentDate":"02/08/2018",
+        "Status":"New",
+        "Branch":"Indore"
+    }
+    ,  
+    {  
+        "QuotationNumber":"Cust0002",
+        "QuotationDate":"01/08/2018",
+        "Remark":"Apple",
+        "DeliveryDate":"04/08/2018",
+        "SalesEmployee":"Ankur",
+        "Owner":"Sameer Sharma",
+        "Total":2055.20,
+        "ItemServiceType":"Product Delivery",
+        "DocumentDate":"02/08/2018",
+        "Status":"New",
+        "Branch":"Indore"
+    }
+    ,  
+    {  
+        "QuotationNumber":"Cust0002",
+        "QuotationDate":"01/08/2018",
+        "Remark":"Apple",
+        "DeliveryDate":"04/08/2018",
+        "SalesEmployee":"Ankur",
+        "Owner":"Sameer Sharma",
+        "Total":2055.20,
+        "ItemServiceType":"Product Delivery",
+        "DocumentDate":"02/08/2018",
+        "Status":"New",
+        "Branch":"Indore"
+    }
+    ,  
+    {  
+        "QuotationNumber":"Cust0002",
+        "QuotationDate":"01/08/2018",
+        "Remark":"Apple",
+        "DeliveryDate":"04/08/2018",
+        "SalesEmployee":"Ankur",
+        "Owner":"Sameer Sharma",
+        "Total":2055.20,
+        "ItemServiceType":"Product Delivery",
+        "DocumentDate":"02/08/2018",
+        "Status":"New",
+        "Branch":"Indore"
+    }
+    ,  
+    {  
+        "QuotationNumber":"Cust0002",
+        "QuotationDate":"01/08/2018",
+        "Remark":"Apple",
+        "DeliveryDate":"04/08/2018",
+        "SalesEmployee":"Ankur",
+        "Owner":"Sameer Sharma",
+        "Total":2055.20,
+        "ItemServiceType":"Product Delivery",
+        "DocumentDate":"02/08/2018",
+        "Status":"New",
+        "Branch":"Indore"
+    }
+    ,  
+    {  
+        "QuotationNumber":"Cust0002",
+        "QuotationDate":"01/08/2018",
+        "Remark":"Apple",
+        "DeliveryDate":"04/08/2018",
+        "SalesEmployee":"Ankur",
+        "Owner":"Sameer Sharma",
+        "Total":2055.20,
+        "ItemServiceType":"Product Delivery",
+        "DocumentDate":"02/08/2018",
+        "Status":"New",
+        "Branch":"Indore"
+    }
+    ,  
+    {  
+        "QuotationNumber":"Cust0002",
+        "QuotationDate":"01/08/2018",
+        "Remark":"Apple",
+        "DeliveryDate":"04/08/2018",
+        "SalesEmployee":"Ankur",
+        "Owner":"Sameer Sharma",
+        "Total":2055.20,
+        "ItemServiceType":"Product Delivery",
+        "DocumentDate":"02/08/2018",
+        "Status":"New",
+        "Branch":"Indore"
+    }
+    ,  
+    {  
+        "QuotationNumber":"Cust0002",
+        "QuotationDate":"01/08/2018",
+        "Remark":"Apple",
+        "DeliveryDate":"04/08/2018",
+        "SalesEmployee":"Ankur",
+        "Owner":"Sameer Sharma",
+        "Total":2055.20,
+        "ItemServiceType":"Product Delivery",
+        "DocumentDate":"02/08/2018",
+        "Status":"New",
+        "Branch":"Indore"
+    }
+    ,  
+    {  
+        "QuotationNumber":"Cust0002",
+        "QuotationDate":"01/08/2018",
+        "Remark":"Apple",
+        "DeliveryDate":"04/08/2018",
+        "SalesEmployee":"Ankur",
+        "Owner":"Sameer Sharma",
+        "Total":2055.20,
+        "ItemServiceType":"Product Delivery",
+        "DocumentDate":"02/08/2018",
+        "Status":"New",
+        "Branch":"Indore"
+    }
+    ,  
+    {  
+        "QuotationNumber":"Cust0002",
+        "QuotationDate":"01/08/2018",
+        "Remark":"Apple",
+        "DeliveryDate":"04/08/2018",
+        "SalesEmployee":"Ankur",
+        "Owner":"Sameer Sharma",
+        "Total":2055.20,
+        "ItemServiceType":"Product Delivery",
+        "DocumentDate":"02/08/2018",
+        "Status":"New",
+        "Branch":"Indore"
+    }
+    ,  
+    {  
+        "QuotationNumber":"Cust0002",
+        "QuotationDate":"01/08/2018",
+        "Remark":"Apple",
+        "DeliveryDate":"04/08/2018",
+        "SalesEmployee":"Ankur",
+        "Owner":"Sameer Sharma",
+        "Total":2055.20,
+        "ItemServiceType":"Product Delivery",
+        "DocumentDate":"02/08/2018",
+        "Status":"New",
+        "Branch":"Indore"
+    }
+    ,  
+    {  
+        "QuotationNumber":"Cust0002",
+        "QuotationDate":"01/08/2018",
+        "Remark":"Apple",
+        "DeliveryDate":"04/08/2018",
+        "SalesEmployee":"Ankur",
+        "Owner":"Sameer Sharma",
+        "Total":2055.20,
+        "ItemServiceType":"Product Delivery",
+        "DocumentDate":"02/08/2018",
+        "Status":"New",
+        "Branch":"Indore"
+    }
+    ,  
+    {  
+        "QuotationNumber":"Cust0002",
+        "QuotationDate":"01/08/2018",
+        "Remark":"Apple",
+        "DeliveryDate":"04/08/2018",
+        "SalesEmployee":"Ankur",
+        "Owner":"Sameer Sharma",
+        "Total":2055.20,
+        "ItemServiceType":"Product Delivery",
+        "DocumentDate":"02/08/2018",
+        "Status":"New",
+        "Branch":"Indore"
+    }
+    ,  
+    {  
+        "QuotationNumber":"Cust0002",
+        "QuotationDate":"01/08/2018",
+        "Remark":"Apple",
+        "DeliveryDate":"04/08/2018",
+        "SalesEmployee":"Ankur",
+        "Owner":"Sameer Sharma",
+        "Total":2055.20,
+        "ItemServiceType":"Product Delivery",
+        "DocumentDate":"02/08/2018",
+        "Status":"New",
+        "Branch":"Indore"
+    }
+    ,  
+    {  
+        "QuotationNumber":"Cust0002",
+        "QuotationDate":"01/08/2018",
+        "Remark":"Apple",
+        "DeliveryDate":"04/08/2018",
+        "SalesEmployee":"Ankur",
+        "Owner":"Sameer Sharma",
+        "Total":2055.20,
+        "ItemServiceType":"Product Delivery",
+        "DocumentDate":"02/08/2018",
+        "Status":"New",
+        "Branch":"Indore"
+    }
+    ,  
+    {  
+        "QuotationNumber":"Cust0002",
+        "QuotationDate":"01/08/2018",
+        "Remark":"Apple",
+        "DeliveryDate":"04/08/2018",
+        "SalesEmployee":"Ankur",
+        "Owner":"Sameer Sharma",
+        "Total":2055.20,
+        "ItemServiceType":"Product Delivery",
+        "DocumentDate":"02/08/2018",
+        "Status":"New",
+        "Branch":"Indore"
+    }
+    ,  
+    {  
+        "QuotationNumber":"Cust0002",
+        "QuotationDate":"01/08/2018",
+        "Remark":"Apple",
+        "DeliveryDate":"04/08/2018",
+        "SalesEmployee":"Ankur",
+        "Owner":"Sameer Sharma",
+        "Total":2055.20,
+        "ItemServiceType":"Product Delivery",
+        "DocumentDate":"02/08/2018",
+        "Status":"New",
+        "Branch":"Indore"
+    }
+    ,  
+    {  
+        "QuotationNumber":"Cust0002",
+        "QuotationDate":"01/08/2018",
+        "Remark":"Apple",
+        "DeliveryDate":"04/08/2018",
+        "SalesEmployee":"Ankur",
+        "Owner":"Sameer Sharma",
+        "Total":2055.20,
+        "ItemServiceType":"Product Delivery",
+        "DocumentDate":"02/08/2018",
+        "Status":"New",
+        "Branch":"Indore"
+    }
+    ,  
+    {  
+        "QuotationNumber":"Cust0002",
+        "QuotationDate":"01/08/2018",
+        "Remark":"Apple",
+        "DeliveryDate":"04/08/2018",
+        "SalesEmployee":"Ankur",
+        "Owner":"Sameer Sharma",
+        "Total":2055.20,
+        "ItemServiceType":"Product Delivery",
+        "DocumentDate":"02/08/2018",
+        "Status":"New",
+        "Branch":"Indore"
+    }
+    ,  
+    {  
+        "QuotationNumber":"Cust0002",
+        "QuotationDate":"01/08/2018",
+        "Remark":"Apple",
+        "DeliveryDate":"04/08/2018",
+        "SalesEmployee":"Ankur",
+        "Owner":"Sameer Sharma",
+        "Total":2055.20,
+        "ItemServiceType":"Product Delivery",
+        "DocumentDate":"02/08/2018",
+        "Status":"New",
+        "Branch":"Indore"
+    }
+    ,  
+    {  
+        "QuotationNumber":"Cust0002",
+        "QuotationDate":"01/08/2018",
+        "Remark":"Apple",
+        "DeliveryDate":"04/08/2018",
+        "SalesEmployee":"Ankur",
+        "Owner":"Sameer Sharma",
+        "Total":2055.20,
+        "ItemServiceType":"Product Delivery",
+        "DocumentDate":"02/08/2018",
+        "Status":"New",
+        "Branch":"Indore"
+    }
+    ,  
+    {  
+        "QuotationNumber":"Cust0002",
+        "QuotationDate":"01/08/2018",
+        "Remark":"Apple",
+        "DeliveryDate":"04/08/2018",
+        "SalesEmployee":"Ankur",
+        "Owner":"Sameer Sharma",
+        "Total":2055.20,
+        "ItemServiceType":"Product Delivery",
+        "DocumentDate":"02/08/2018",
+        "Status":"New",
+        "Branch":"Indore"
+    }
+    ,  
+    {  
+        "QuotationNumber":"Cust0002",
+        "QuotationDate":"01/08/2018",
+        "Remark":"Apple",
+        "DeliveryDate":"04/08/2018",
+        "SalesEmployee":"Ankur",
+        "Owner":"Sameer Sharma",
+        "Total":2055.20,
+        "ItemServiceType":"Product Delivery",
+        "DocumentDate":"02/08/2018",
+        "Status":"New",
+        "Branch":"Indore"
+    }
+    ,  
+    {  
+        "QuotationNumber":"Cust0002",
+        "QuotationDate":"01/08/2018",
+        "Remark":"Apple",
+        "DeliveryDate":"04/08/2018",
+        "SalesEmployee":"Ankur",
+        "Owner":"Sameer Sharma",
+        "Total":2055.20,
+        "ItemServiceType":"Product Delivery",
+        "DocumentDate":"02/08/2018",
+        "Status":"New",
+        "Branch":"Indore"
+    }
+    ,  
+    {  
+        "QuotationNumber":"Cust0002",
+        "QuotationDate":"01/08/2018",
+        "Remark":"Apple",
+        "DeliveryDate":"04/08/2018",
+        "SalesEmployee":"Ankur",
+        "Owner":"Sameer Sharma",
+        "Total":2055.20,
+        "ItemServiceType":"Product Delivery",
+        "DocumentDate":"02/08/2018",
+        "Status":"New",
+        "Branch":"Indore"
+    }
+    ,  
+    {  
+        "QuotationNumber":"Cust0002",
+        "QuotationDate":"01/08/2018",
+        "Remark":"Apple",
+        "DeliveryDate":"04/08/2018",
+        "SalesEmployee":"Ankur",
+        "Owner":"Sameer Sharma",
+        "Total":2055.20,
+        "ItemServiceType":"Product Delivery",
+        "DocumentDate":"02/08/2018",
+        "Status":"New",
+        "Branch":"Indore"
+    }
+    ,  
+    {  
+        "QuotationNumber":"Cust0002",
+        "QuotationDate":"01/08/2018",
+        "Remark":"Apple",
+        "DeliveryDate":"04/08/2018",
+        "SalesEmployee":"Ankur",
+        "Owner":"Sameer Sharma",
+        "Total":2055.20,
+        "ItemServiceType":"Product Delivery",
+        "DocumentDate":"02/08/2018",
+        "Status":"New",
+        "Branch":"Indore"
+    }
+    ,  
+    {  
+        "QuotationNumber":"Cust0002",
+        "QuotationDate":"01/08/2018",
+        "Remark":"Apple",
+        "DeliveryDate":"04/08/2018",
+        "SalesEmployee":"Ankur",
+        "Owner":"Sameer Sharma",
+        "Total":2055.20,
+        "ItemServiceType":"Product Delivery",
+        "DocumentDate":"02/08/2018",
+        "Status":"New",
+        "Branch":"Indore"
+    },  
+    {  
+        "QuotationNumber":"Cust0002",
+        "QuotationDate":"01/08/2018",
+        "Remark":"Apple",
+        "DeliveryDate":"04/08/2018",
+        "SalesEmployee":"Ankur",
+        "Owner":"Sameer Sharma",
+        "Total":2055.20,
+        "ItemServiceType":"Product Delivery",
+        "DocumentDate":"02/08/2018",
+        "Status":"New",
+        "Branch":"Indore"
+    },  
+    {  
+        "QuotationNumber":"Cust0002",
+        "QuotationDate":"01/08/2018",
+        "Remark":"Apple",
+        "DeliveryDate":"04/08/2018",
+        "SalesEmployee":"Ankur",
+        "Owner":"Sameer Sharma",
+        "Total":2055.20,
+        "ItemServiceType":"Product Delivery",
+        "DocumentDate":"02/08/2018",
+        "Status":"New",
+        "Branch":"Indore"
+    },  
+    {  
+        "QuotationNumber":"Cust0002",
+        "QuotationDate":"01/08/2018",
+        "Remark":"Apple",
+        "DeliveryDate":"04/08/2018",
+        "SalesEmployee":"Ankur",
+        "Owner":"Sameer Sharma",
+        "Total":2055.20,
+        "ItemServiceType":"Product Delivery",
+        "DocumentDate":"02/08/2018",
+        "Status":"New",
+        "Branch":"Indore"
+    },  
+    {  
+        "QuotationNumber":"Cust0002",
+        "QuotationDate":"01/08/2018",
+        "Remark":"Apple",
+        "DeliveryDate":"04/08/2018",
+        "SalesEmployee":"Ankur",
+        "Owner":"Sameer Sharma",
+        "Total":2055.20,
+        "ItemServiceType":"Product Delivery",
+        "DocumentDate":"02/08/2018",
+        "Status":"New",
+        "Branch":"Indore"
+    },  
+    {  
+        "QuotationNumber":"Cust0002",
+        "QuotationDate":"01/08/2018",
+        "Remark":"Apple",
+        "DeliveryDate":"04/08/2018",
+        "SalesEmployee":"Ankur",
+        "Owner":"Sameer Sharma",
+        "Total":2055.20,
+        "ItemServiceType":"Product Delivery",
+        "DocumentDate":"02/08/2018",
+        "Status":"New",
+        "Branch":"Indore"
+    },  
+    {  
+        "QuotationNumber":"Cust0002",
+        "QuotationDate":"01/08/2018",
+        "Remark":"Apple",
+        "DeliveryDate":"04/08/2018",
+        "SalesEmployee":"Ankur",
+        "Owner":"Sameer Sharma",
+        "Total":2055.20,
+        "ItemServiceType":"Product Delivery",
+        "DocumentDate":"02/08/2018",
+        "Status":"New",
+        "Branch":"Indore"
+    },  
+    {  
+        "QuotationNumber":"Cust0002",
+        "QuotationDate":"01/08/2018",
+        "Remark":"Apple",
+        "DeliveryDate":"04/08/2018",
+        "SalesEmployee":"Ankur",
+        "Owner":"Sameer Sharma",
+        "Total":2055.20,
+        "ItemServiceType":"Product Delivery",
+        "DocumentDate":"02/08/2018",
+        "Status":"New",
+        "Branch":"Indore"
+    }
 ]
 
 

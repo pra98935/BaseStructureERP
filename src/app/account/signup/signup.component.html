@@ -6,7 +6,7 @@
       <div class="opti_outer-signup-form opti_account-submodule-container">
           <div class="opti_vertcal-align-outer-box ">
 
-              <div class="panel-body opti_position-relative" [perfectScrollbar]="">
+              <div class="panel-body position-relative" [perfectScrollbar]="">
 
                   <!-- loader start -->
                   <div class="opti_loader" *ngIf="showLoader==true">
@@ -23,7 +23,7 @@
                           </div>
 
                           <ng-container *ngIf="UserRegData!='usersignup'">
-                              <label class="k-form-field opti_position-relative">
+                              <label class="k-form-field position-relative">
                                   <span class="opti_form-label">Customer ID *
                                       <span *ngIf="compId.errors && (compId.dirty || compId.touched)" class="float-right opti_signup-validation-top-side opti_error-msg" >Please enter valid company id.</span>
                                   </span>
@@ -72,7 +72,7 @@
                               <input name="RequesterName" required #RequesterName=ngModel maxlength="" [(ngModel)]="registerReq.RequesterName" type="text"
                                   class="k-textbox" value="" placeholder="e.g. Kevin" autocomplete="off"/>
                           </label>
-                          <label class="k-form-field opti_position-relative">
+                          <label class="k-form-field position-relative">
                               <span class="opti_form-label">Your Email *
                                   <span *ngIf="RequesterEmail.errors?.required && RequesterEmail.touched" class="float-right opti_signup-validation-top-side opti_error-msg">
                                       Please enter emailId.
@@ -119,7 +119,7 @@
                       
                       
 
-                          <label class="k-form-field opti_signup-captcha opti_display-inline-block">
+                          <label class="k-form-field opti_signup-captcha d-inline-block">
                               <!-- <div class="opti_captcha-box"> -->
                               <span class="float-left opti_captcha-text">
                                   <input required class="k-textbox" #Captcha=ngModel [(ngModel)]="capchaText" (input)="changeValue()" type="text" name="captchatext" required autocomplete="off"/>
@@ -133,7 +133,7 @@
                                   </div>
                               </span>
                               
-                              <div class="opti_error-msg opti_display-inline-block opti_captcha-error opti_fullwidth">
+                              <div class="opti_error-msg d-inline-block opti_captcha-error w-100">
                                   <span class="opti_error-msg"  *ngIf="invalidCapcha==true"  >Please enter valid captcha.</span>
                                   <span class="opti_error-msg" *ngIf="Captcha.errors && (Captcha.dirty || Captcha.touched)">Captcha is required.</span>
                               </div>
@@ -156,7 +156,7 @@
 
                           <label class="k-form-field">
                               <div class="text-right">
-                                  <button (click)="submit()" [disabled]="!signUpForm.form.valid || invalidCompanyId==true" type="button" class="k-button k-primary opti_fullwidth opti_signup-button">Sign Up</button>
+                                  <button (click)="submit()" [disabled]="!signUpForm.form.valid || invalidCompanyId==true" type="button" class="k-button k-primary w-100 opti_signup-button">Sign Up</button>
                               </div>
                           </label>
                       </div>

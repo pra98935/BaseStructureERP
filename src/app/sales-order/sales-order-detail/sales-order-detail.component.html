@@ -1,6 +1,6 @@
 <div #optiRightAddInquiry class="opti_sales-order-detail" id="opti_SalesOrderDetailID">
     <!-- tab start heading start -->
-    <div class="opti_position-relative opti_tab-outer">
+    <div class="position-relative opti_tab-outer">
       <ul #optiTab class="opti_tab tabs clearfix" id="opti_TabID">
           <li class="opti_tablinks active" (click)="openTab($event, 'home', 'horizontal')">
             <a href="javascript:void('0');">Header</a>
@@ -39,13 +39,13 @@
     </div>
     <div id="" *ngIf="tabName=='vtab'" class="opti_tabcontent">
       <!-- vertical tab start -->
-      <div class="opti_position-relative opti_fullheight" id="" [perfectScrollbar]="">
+      <div class="position-relative h-100" id="" [perfectScrollbar]="">
         <div class="container-fluid">
           <div class="row">
             <div class="col-md-12">
 
               <!-- ==============Tab Title================ -->
-              <div class="opti_position-relative opti_vertical-tab-outer float-left" id="">
+              <div class="position-relative opti_vertical-tab-outer float-left" id="">
                   <ul #optiTabvertical class="opti_tab tabs clearfix" id="opti_VerticalTabID">
                       <li class="opti_tablinks-vertical active" id="" (click)="openTab($event, 'vhome', 'vertical')">
                           <a href="javascript:void('0');">
