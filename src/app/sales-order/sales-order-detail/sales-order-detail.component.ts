@@ -2,6 +2,8 @@ import { Component, OnInit, Input, HostListener } from '@angular/core';
 import { CurrentSidebarInfo } from '../../models/sidebar/current-sidebar-info';
 import { UIHelper } from '../../helpers/ui.helpers';
 import { Configuration } from '../../../assets/configuration';
+import { PerfectScrollbarConfigInterface,
+  PerfectScrollbarComponent, PerfectScrollbarDirective } from 'ngx-perfect-scrollbar';
 
 @Component({
   selector: 'app-sales-order-detail',
@@ -13,6 +15,10 @@ export class SalesOrderDetailComponent implements OnInit {
   @Input() currentSidebarInfo:CurrentSidebarInfo;
 
   constructor() { }
+
+  public configs: PerfectScrollbarConfigInterface = {
+    suppressScrollY:true
+  };
 
   tabName: string = 'home';
   vTabName: string = 'vhome';
@@ -33,12 +39,12 @@ export class SalesOrderDetailComponent implements OnInit {
   @HostListener('window:resize', ['$event'])
   onResize(event) {
     // apply width on opti_TabID
-    UIHelper.getWidthOfOuterTab();
+    //UIHelper.getWidthOfOuterTab();
   }
 
   ngOnInit() {
     // apply width on opti_TabID
-    UIHelper.getWidthOfOuterTab();
+    //UIHelper.getWidthOfOuterTab();
   }
 
 }

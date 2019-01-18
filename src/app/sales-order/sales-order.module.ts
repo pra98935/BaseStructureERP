@@ -11,9 +11,11 @@ import { SalesOrderDetailNotesComponent } from './sales-order-detail-notes/sales
 import { GridModule, ExcelModule } from '@progress/kendo-angular-grid';
 import { FormsModule } from '@angular/forms';
 import { AngularSvgIconModule } from 'angular-svg-icon';
-import { PerfectScrollbarModule } from 'ngx-perfect-scrollbar';
 import { DropDownsModule } from '@progress/kendo-angular-dropdowns';
 import { FileDropModule } from 'ngx-file-drop';
+
+import { PerfectScrollbarModule } from 'ngx-perfect-scrollbar';
+
 
 @NgModule({
   imports: [
