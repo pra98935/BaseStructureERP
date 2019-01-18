@@ -216,6 +216,7 @@ body{
     }
 
     .ps__rail-x{
+        z-index: 2;
         height: 6px !important;
         .ps__thumb-x{
             height: 6px !important;
@@ -278,7 +279,9 @@ body{
                         line-height : 35px;
                         max-height: 35px;
                         overflow: hidden;
-                        display: inline-block;
+                        border: none ;
+                        display: flex ;
+                        flex-wrap: nowrap;
                     }
                     ul.tabs > li.active{
                         z-index: 2;
@@ -301,7 +304,6 @@ body{
                     }
                     ul.tabs > li:first-child{margin-left: -5px;}
                     ul.tabs > li{
-                        float : left;
                         margin : 5px -10px 0;
                         border-top-right-radius: 25px 170px;
                         border-top-left-radius: 20px 90px;
@@ -311,6 +313,7 @@ body{
                         position : relative;
                         // box-shadow: 0 10px 20px rgba(0,0,0,.5);
                         max-width : 200px;
+                        white-space: nowrap;
                     }
                     ul.tabs > li > a{
                         display: inline-block;

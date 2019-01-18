@@ -2,8 +2,7 @@ import { Component, OnInit, Input, HostListener } from '@angular/core';
 import { CurrentSidebarInfo } from '../../models/sidebar/current-sidebar-info';
 import { UIHelper } from '../../helpers/ui.helpers';
 import { Configuration } from '../../../assets/configuration';
-import { PerfectScrollbarConfigInterface,
-  PerfectScrollbarComponent, PerfectScrollbarDirective } from 'ngx-perfect-scrollbar';
+import { PerfectScrollbarConfigInterface } from 'ngx-perfect-scrollbar';
 
 @Component({
   selector: 'app-sales-order-detail',
@@ -16,7 +15,7 @@ export class SalesOrderDetailComponent implements OnInit {
 
   constructor() { }
 
-  public configs: PerfectScrollbarConfigInterface = {
+  public configX: PerfectScrollbarConfigInterface = {
     suppressScrollY:true
   };
 
